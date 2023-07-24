@@ -1,8 +1,8 @@
 # C-0-nn-3-ct Four Game
 Connect Four
-![alt text][https://github.com/manhiem/Connect-Four-Game-Cpp/blob/main/Images/Image1.png]
-![alt text][https://github.com/manhiem/Connect-Four-Game-Cpp/blob/main/Images/Image2.png]
 
+<img width="965" alt="Image1" src="https://github.com/manhiem/Connect-Four-Game-Cpp/assets/59243227/efa48f54-08db-4be3-bef4-3fff87e46a27">
+<img width="1280" alt="Image2" src="https://github.com/manhiem/Connect-Four-Game-Cpp/assets/59243227/974ea631-0429-4c3c-8437-752e0a9258fe">
 
 ## Table of Contents
 - Introduction
